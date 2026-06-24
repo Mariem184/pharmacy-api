@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "NUTRICARE",
+      "name": "Vitamin D3 + K2 2000IU",
+      "description": "Supports bone health and immune function with optimal absorption.",
+      "image": "https://images.unsplash.com/photo-1616671285454-e87e1f6fcc1e?q=80&w=500",
+      "price": 18.99,
+      "oldPrice": 24.99,
+      "rating": 4.8,
+      "reviewsCount": 312,
+      "badge": "BEST SELLER",
+      "badgeType": "bestseller",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "brand": "PUREHEALTH",
+      "name": "Omega-3 Fish Oil 1000mg",
+      "description": "High-purity omega-3 for heart and brain health.",
+      "image": "https://images.unsplash.com/photo-1545214919-4b689a421c97?q=80&w=500",
+      "price": 22.49,
+      "rating": 4.6,
+      "reviewsCount": 198,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "brand": "MEDIRELIEF",
+      "name": "Ibuprofen 400mg Tablets",
+      "description": "Fast-acting anti-inflammatory pain relief for headaches and muscle aches.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=500",
+      "price": 8.99,
+      "rating": 4.7,
+      "reviewsCount": 540,
+      "badge": "PHARMACY PICK",
+      "badgeType": "pharmacy-pick",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "brand": "MEDIRELIEF",
+      "name": "Paracetamol 500mg Caplets",
+      "description": "Trusted pain and fever relief. Gentle on the stomach.",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=500",
+      "price": 5.49,
+      "rating": 4.9,
+      "reviewsCount": 870,
+      "inStock": true
+    }
+  ]
+}
