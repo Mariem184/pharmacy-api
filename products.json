@@ -143,56 +143,6 @@
       "reviewsCount": 310,
       "category": "Eye Care",
       "inStock": true
-    },
-    {
-      "id": 12,
-      "brand": "VICKER",
-      "name": "VapoRub Relief Balm 50g",
-      "description": "Medicated vapors to provide quick relief from cough and nasal congestion.",
-      "image": "https://images.pexels.com/photos/4058223/pexels-photo-4058223.jpeg",
-      "price": 6.99,
-      "rating": 4.7,
-      "reviewsCount": 280,
-      "category": "Cold & Flu",
-      "inStock": true
-    },
-    {
-      "id": 13,
-      "brand": "BABYJOY",
-      "name": "Gentle Baby Lotion 200ml",
-      "description": "Hypoallergenic skin moisturizer specially formulated for newborn baby skin.",
-      "image": "https://images.pexels.com/photos/4011746/pexels-photo-4011746.jpeg",
-      "price": 9.49,
-      "rating": 4.8,
-      "reviewsCount": 145,
-      "badge": "NEW",
-      "badgeType": "new",
-      "category": "Baby & Child",
-      "inStock": true
-    },
-    {
-      "id": 14,
-      "brand": "KIDSMED",
-      "name": "Children's Liquid Paracetamol",
-      "description": "Effective relief from fever and pain in children, with pleasant strawberry flavor.",
-      "image": "https://images.pexels.com/photos/3652104/pexels-photo-3652104.jpeg",
-      "price": 7.25,
-      "rating": 4.9,
-      "reviewsCount": 412,
-      "category": "Baby & Child",
-      "inStock": true
-    },
-    {
-      "id": 15,
-      "brand": "CLEAREYES",
-      "name": "Redness Relief Eye Drops",
-      "description": "Moisturizes and clears redness quickly to soothe burning and irritated eyes.",
-      "image": "https://images.pexels.com/photos/545014/pexels-photo-545014.jpeg",
-      "price": 8.99,
-      "rating": 4.6,
-      "reviewsCount": 185,
-      "category": "Eye Care",
-      "inStock": true
     }
   ]
 }
