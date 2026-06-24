@@ -2,29 +2,27 @@
   "products": [
     {
       "id": 1,
-      "brand": "NUTRICARE",
-      "name": "Vitamin D3 + K2 2000IU",
-      "description": "Supports bone health and immune function with optimal absorption.",
-      "image": "https://images.pexels.com/photos/5998499/pexels-photo-5998499.jpeg",
-      "price": 18.99,
-      "oldPrice": 24.99,
+      "name": "Augmentin 1 g",
+      "description": "For treating chronic systemic infections, sinusitis, generalized skin infections, and urinary tract infections.",
+      "image": "https://cdn.salla.sa/aeogjR/52ce238a-6d5a-40bb-813d-c848d4765c60-500x500-CM7UqwW47mRsPbfHcH9Es1V21WGxrqvy2z33Ci0u.jpg",
+      "price": 210,
+      "oldPrice": 163.99,
       "rating": 4.8,
       "reviewsCount": 312,
       "badge": "BEST SELLER",
       "badgeType": "bestseller",
-      "category": "Vitamins & Supplements",
+      "category": "Anti-Biotics",
       "inStock": true
     },
     {
       "id": 2,
-      "brand": "PUREHEALTH",
-      "name": "Omega-3 Fish Oil 1000mg",
-      "description": "High-purity omega-3 fatty acids for heart, joint, and brain health support.",
-      "image": "https://images.pexels.com/photos/29060398/pexels-photo-29060398.jpeg",
-      "price": 22.49,
+      "name": "Xithrone 500 mg",
+      "description": "Treat a variety of bacterial infections affecting the respiratory system, skin, and ears, as well as certain sexually transmitted diseases.",
+      "image": "https://taypharmacies.com/wp-content/uploads/2023/08/XITHRONE-500MG-5-TAB-1.jpg",
+      "price": 86,
       "rating": 4.6,
       "reviewsCount": 198,
-      "category": "Vitamins & Supplements",
+      "category": "Anti-Biotics",
       "inStock": true
     },
     {
@@ -38,7 +36,7 @@
       "reviewsCount": 540,
       "badge": "PHARMACY PICK",
       "badgeType": "pharmacy-pick",
-      "category": "Pain Relief",
+      "category": "Anti-Biotics",
       "inStock": true
     },
     {
