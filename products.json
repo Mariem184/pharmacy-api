@@ -12,7 +12,8 @@
       "badge": "BEST SELLER",
       "badgeType": "bestseller",
       "category": "Anti-Biotics",
-      "inStock": true
+      "inStock": true,
+      "quantity": 2
     },
     {
       "id": 2,
