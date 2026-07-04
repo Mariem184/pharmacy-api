@@ -24,7 +24,8 @@
       "rating": 4.6,
       "reviewsCount": 198,
       "category": "Anti-Biotics",
-      "inStock": true
+      "inStock": true,
+      "quantity": 10
     },
     {
       "id": 3,
