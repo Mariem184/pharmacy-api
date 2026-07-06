@@ -313,6 +313,7 @@
   "description": "Famous natural ointment used for fast wound healing, soothing minor to moderate skin burns, and scar treatment.",
   "image": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/https://elshazlypharmacy.com/wp-content/uploads/2024/06/%D9%85%D9%8A%D8%A8%D9%88-15-%D8%AC%D8%B1%D8%A7%D9%85.jpg",
   "price": 95.00,
+  "oldPrice": 100.99,
   "rating": 4.9,
   "reviewsCount": 425,
   "category": "Creams & Ointment",
@@ -363,6 +364,8 @@
   "price": 42.50,
   "rating": 4.8,
   "reviewsCount": 210,
+  "badge": "BEST SELLER",
+  "badgeType": "bestseller",
   "category": "Injections",
   "inStock": true
 }
