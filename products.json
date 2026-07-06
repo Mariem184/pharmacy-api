@@ -52,7 +52,7 @@
       "reviewsCount": 870,
       "badge": "NEW",
       "badgeType": "new",
-      "category": "Pain Relief",
+      "category": "Tablets & Capsules",
       "inStock": true
     },
     {
@@ -151,7 +151,7 @@
   "brand": "EIPICO",
   "name": "Flumox 1g Capsules",
   "description": "Broad-spectrum antibiotic used to treat bacterial infections of the respiratory tract, skin, and urinary tract.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2020/12/FLUMOX-1-GM-15-CAP-1.jpg",
+  "image": "https://taypharmacies.com/wp-content/uploads/2023/10/60.png",
   "price": 54.00,
   "rating": 4.7,
   "reviewsCount": 85,
@@ -163,42 +163,30 @@
   "brand": "PFIZER",
   "name": "Zithromax 500mg Tablets",
   "description": "Macrolide antibiotic used for throat infections, pneumonia, and soft tissue bacterial infections.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/ZITHROMAX-500MG-3-TAB.jpg",
+  "image": "https://ycdscc.com/wp-content/uploads/2020/10/Zithromax-500mg-D-8075-AUS-1.jpg",
   "price": 120.00,
   "rating": 4.8,
   "reviewsCount": 110,
   "category": "Anti-Biotics",
   "inStock": true
 },
-    {
-  "id": 14,
-  "brand": "GSK",
-  "name": "Panadol Extra Tablets",
-  "description": "Effective relief for headaches, toothaches, period pain, and muscle aches. Gentle on the stomach.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2020/12/PANADOL-EXTRA-24-TAB.jpg",
-  "price": 45.00,
-  "rating": 4.9,
-  "reviewsCount": 520,
-  "category": "Tablets & Capsules",
-  "inStock": true
-},
 {
-  "id": 15,
+  "id": 14,
   "brand": "ABBOTT",
   "name": "Brufen 400mg Tablets",
   "description": "Anti-inflammatory pain reliever and fever reducer used for joint pain and headaches.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/BRUFEN-400MG-30-TAB.jpg",
+  "image": "https://cdn.salla.sa/QdDpq/YOZlJOqhuAgU1CAmp5jjgdrv7B7DYfS3ofEkHAik.jpg",
   "price": 50.50,
   "rating": 4.6,
   "reviewsCount": 240,
   "category": "Tablets & Capsules",
-  "inStock": true
+  "inStock": false
 },{
-  "id": 16,
+  "id": 15,
   "brand": "LEO PHARMA",
   "name": "Fucidin Cream 20g",
   "description": "Topical antibiotic cream used for treating skin infections, minor wounds, and bacterial irritations.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/FUCIDIN-20g-CREAM.jpg",
+  "image": "https://cdn.salla.sa/qwPed/3793cc54-1927-453c-8229-2e29aab56d29-1000x1000-BhtmVTShP3mMVPJvs7o8rZTfqRIImrHWpEnu9vyg.png",
   "price": 38.50,
   "rating": 4.8,
   "reviewsCount": 190,
@@ -206,11 +194,11 @@
   "inStock": true
 },
 {
-  "id": 17,
+  "id": 16,
   "brand": "NOVARTIS",
   "name": "Voltaren Emulgel 50g",
   "description": "Topical gel provides effective relief for muscle pain, backaches, joint stiffness, and sports injuries.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/VOLTAREN-EMULGEL-50G.jpg",
+  "image": "https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/voltaren-emulgel-for-muscle-back-pain-relief-1-50gm-iuj4-01664278107.png",
   "price": 85.00,
   "rating": 4.7,
   "reviewsCount": 310,
@@ -218,11 +206,11 @@
   "inStock": true
 },
     {
-  "id": 18,
+  "id": 17,
   "brand": "EIPICO",
   "name": "Cetal 250mg Infant Suppositories",
   "description": "Gentle paracetamol pain reliever and fever reducer formulated for infants and children.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/CETAL-250MG-5-SUPP.jpg",
+  "image": "https://makeyya.com/wp-content/uploads/2024/10/IMG_9326.jpeg",
   "price": 15.00,
   "rating": 4.9,
   "reviewsCount": 95,
@@ -230,11 +218,11 @@
   "inStock": true
 },
 {
-  "id": 19,
+  "id": 18,
   "brand": "SANOFI",
   "name": "Proctosedyl Suppositories",
   "description": "Effective local relief from the pain, inflammation, and itching associated with hemorrhoids.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/PROCTOSEDYL-10-SUPP.jpg",
+  "image": "https://www.chemist-4-u.com/media/catalog/product/cache/f82c79c06fdfbb9bff4567c21265baf6/p/r/proctosedyl_suppositories_12.jpg",
   "price": 40.00,
   "rating": 4.5,
   "reviewsCount": 64,
@@ -242,11 +230,11 @@
   "inStock": true
 },
     {
-  "id": 23,
+  "id": 19,
   "brand": "NOVARTIS",
   "name": "Voltaren 75mg/3ml Ampoules (6 Amp)",
   "description": "Intramuscular injection for immediate treatment of acute joint pain, severe arthritis, and muscular pain.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/VOLTAREN-75MG-AMP.jpg",
+  "image": "https://vitaminqatar.com/cdn/shop/files/659a7c62a672404e7c1edf36_voltaren-75-mg-3-ml-5-amp_300x.jpg?v=1716873823",
   "price": 62.00,
   "rating": 4.8,
   "reviewsCount": 380,
@@ -254,11 +242,11 @@
   "inStock": true
 },
 {
-  "id": 24,
+  "id": 20,
   "brand": "AMOUN",
   "name": "Neuroton Vitamin B Complex Ampoules",
   "description": "Highly concentrated Vitamin B complex injection to treat nerve pain, neuritis, and severe vitamin deficiency.",
-  "image": "https://taypharmacies.com/wp-content/uploads/2021/01/NEUROTON-6-AMP.jpg",
+  "image": "https://delmar-test.linkedgates.com/images/items/118671-v1.JPEG",
   "price": 45.00,
   "rating": 4.7,
   "reviewsCount": 290,
