@@ -89,7 +89,7 @@
       "price": 14.50,
       "rating": 4.5,
       "reviewsCount": 115,
-      "category": "First Aid",
+      "category": "Creams & Ointment",
       "inStock": true
     },
     {
@@ -250,6 +250,114 @@
   "price": 45.00,
   "rating": 4.7,
   "reviewsCount": 290,
+  "category": "Injections",
+  "inStock": true
+},
+    {
+  "id": 21,
+  "brand": "MUNDIPHARMA",
+  "name": "Betadine Antiseptic Solution 120ml",
+  "description": "Broad-spectrum topical microbicide used for cleaning minor cuts, scrapes, and burns to prevent infection.",
+  "image": "https://drahmedelezaby.com/wp-content/uploads/2025/02/BETADINE-ANTISEPTIC-SOLUTION-120mL.webp",
+  "price": 75.00,
+  "rating": 4.9,
+  "reviewsCount": 140,
+  "category": "First Aid",
+  "inStock": true
+},
+    {
+  "id": 22,
+  "brand": "GLAXOSMITHKLINE",
+  "name": "Clavamox 1g Tablets",
+  "description": "Powerful broad-spectrum antibiotic used to treat severe respiratory, urinary tract, and dental bacterial infections.",
+  "image": "https://taypharmacies.com/wp-content/uploads/2023/06/CLAVIMOX-1-GM-16-TAB.jpeg",
+  "price": 115.00,
+  "rating": 4.8,
+  "reviewsCount": 92,
+  "category": "Anti-Biotics",
+  "inStock": true
+},
+{
+  "id": 23,
+  "brand": "EIPICO",
+  "name": "Ketofan 50mg Capsules",
+  "description": "Fast-acting oral capsules used to relieve moderate pain, joint stiffness, headaches, and dental pain.",
+  "image": "https://i.pinimg.com/736x/a2/12/c8/a212c85ea82ea8ea8ea8ea8ea8ea8ea8.jpg",
+  "price": 25.00,
+  "rating": 4.6,
+  "reviewsCount": 114,
+  "category": "Tablets & Capsules",
+  "inStock": true
+},
+{
+  "id": 24,
+  "brand": "KAHIRA PHARMA",
+  "name": "Loprin 75mg Gastro-Resistant",
+  "description": "Low-dose aspirin tablets used to prevent blood clots, protect heart health, and reduce cardiovascular risks.",
+  "image": "https://i.pinimg.com/736x/a4/09/b8/a409b8c6e26eb8b6b3e7fad2545f4890.jpg",
+  "price": 18.00,
+  "rating": 4.9,
+  "reviewsCount": 350,
+  "category": "Tablets & Capsules",
+  "inStock": true
+},
+{
+  "id": 25,
+  "brand": "JULPHAR",
+  "name": "Mebo Ointment 15g",
+  "description": "Famous natural ointment used for fast wound healing, soothing minor to moderate skin burns, and scar treatment.",
+  "image": "https://i.pinimg.com/736x/43/d2/d0/43d2d0b57e74a8a5b28d68962635a968.jpg",
+  "price": 95.00,
+  "rating": 4.9,
+  "reviewsCount": 425,
+  "category": "Creams & Ointment",
+  "inStock": true
+},
+{
+  "id": 26,
+  "brand": "NILE CO.",
+  "name": "Paramol 125mg Infant Supps",
+  "description": "Paracetamol suppositories for infants. Reduces body temperature and relieves teething and general mild pains.",
+  "image": "https://i.pinimg.com/736x/8c/d7/e2/8cd7e2c9ef897be4f7bdfcda608c02f0.jpg",
+  "price": 12.00,
+  "rating": 4.7,
+  "reviewsCount": 86,
+  "category": "Suppsitories",
+  "inStock": true
+},
+{
+  "id": 27,
+  "brand": "ALCON",
+  "name": "Systane Ultra Lubricant Eye Drops",
+  "description": "Premium dry eye relief drops. Provides high-performance hydration and protection for dry, burning eyes.",
+  "image": "https://i.pinimg.com/736x/4e/d7/9b/4ed79b0606831996e8e7ff8efd12a49d.jpg",
+  "price": 145.00,
+  "rating": 4.9,
+  "reviewsCount": 512,
+  "category": "Eye Care",
+  "inStock": true
+},
+{
+  "id": 28,
+  "brand": "PHARCO",
+  "name": "Ethyl Alcohol 70% Spray 100ml",
+  "description": "Medical-grade antiseptic ethyl alcohol spray. Ideal for sanitizing skin, hands, surfaces, and first-aid prep.",
+  "image": "https://i.pinimg.com/736x/b5/4a/7e/b54a7ead830681af7b22ba50ae5b9045.jpg",
+  "price": 20.00,
+  "rating": 4.5,
+  "reviewsCount": 98,
+  "category": "First Aid",
+  "inStock": true
+},
+{
+  "id": 29,
+  "brand": "AMOUN",
+  "name": "Depovit B12 1000mcg Ampoules",
+  "description": "Long-acting Vitamin B12 injection used to support nerve function, prevent anemia, and boost physical energy.",
+  "image": "https://i.pinimg.com/736x/b7/2d/a2/b72da2e9a263d9197c36a4b3d8d67c51.jpg",
+  "price": 42.50,
+  "rating": 4.8,
+  "reviewsCount": 210,
   "category": "Injections",
   "inStock": true
 }
